@@ -12,6 +12,7 @@ public:
     void sayHi(int times);
     //1
     //2
+    //3
 
 private:
     int id;
