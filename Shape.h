@@ -10,7 +10,7 @@ public:
     virtual void sayHi();
 
     void sayHi(int times);
-    // dev 1
+    // cat 1
 
 private:
     int id;
