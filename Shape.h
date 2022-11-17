@@ -8,7 +8,10 @@ public:
     bool operator>(const IShape& shp);
     virtual ~IShape();
     virtual void sayHi();
+
     void sayHi(int times);
+    //1
+    //2
 
 private:
     int id;
